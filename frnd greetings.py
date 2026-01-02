@@ -8,5 +8,3 @@ for frnd in frnds:
     else:
         print(f'hey {frnd} ! nice to see ya')
 print('\n')
-
-for i in range(6):
